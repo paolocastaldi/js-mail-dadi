@@ -1,6 +1,5 @@
 //EMAIL
 
-
 let scelta = prompt("Premi 1 per le email, 2 per i dadi");
 if(scelta == 1){
     
